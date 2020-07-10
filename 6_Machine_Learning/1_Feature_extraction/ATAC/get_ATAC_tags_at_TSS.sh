@@ -1,0 +1,1 @@
+annotatePeaks.pl tss mm10 -list 2020-04-06_Neutrophil_Expressed_Genes_from_STAR.txt -dfile Neutrophil_ATAC_TAGsDir.txt -fpkm -size -500,150 -noann > HOMER_Neutrophil_ATAC_seq_reads.txt

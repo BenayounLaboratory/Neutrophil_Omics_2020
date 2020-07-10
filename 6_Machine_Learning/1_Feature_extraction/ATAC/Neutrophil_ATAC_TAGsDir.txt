@@ -1,0 +1,4 @@
+/Volumes/BB_Home/Neutrophils/Neutrophil_analysis/ATAC-seq_analysis/BOWTIE2_mapped/Neutrophil_ATACseq_4m_F_Merged_TAGs
+/Volumes/BB_Home/Neutrophils/Neutrophil_analysis/ATAC-seq_analysis/BOWTIE2_mapped/Neutrophil_ATACseq_4m_M_Merged_TAGs
+/Volumes/BB_Home/Neutrophils/Neutrophil_analysis/ATAC-seq_analysis/BOWTIE2_mapped/Neutrophil_ATACseq_21m_F_Merged_TAGs
+/Volumes/BB_Home/Neutrophils/Neutrophil_analysis/ATAC-seq_analysis/BOWTIE2_mapped/Neutrophil_ATACseq_21m_M_Merged_TAGs
