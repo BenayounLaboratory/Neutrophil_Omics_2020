@@ -1,0 +1,13 @@
+README
+
+# generate lists  for impala
+	- get FDR5 lists from RNAseq analysis
+	- get FDR5 lists from metabolomics
+		* only use manually validated peaks (HMDBID)
+	- get FDR5 lists from lipidomics
+		* use HMDB ID for lipids when it exists (from Kévin's annotation file)
+		
+# get concatenated lipid/metabolites lists for Impala
+	cat Female_FDR5_lipids.txt Validated_metabolites_female_bias_FDR5.txt | sort -u > Female_lipid_metab_HMDB_Impala.txt
+	cat Male_FDR5_lipids.txt Validated_metabolites_male_bias_FDR5.txt     | sort -u > Male_lipid_metab_HMDB_Impala.txt
+
