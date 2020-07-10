@@ -1,0 +1,21 @@
+makeTagDirectory 4m_female_F1a_Neutrophils_RNAseq_TAGs  4m_female_F1a_Neutrophils_ATCACG_Aligned.sortedByCoord.out.bam   -sspe -keepOne -genome mm10
+makeTagDirectory 4m_female_F1b_Neutrophils_RNAseq_TAGs  4m_female_F1b_Neutrophils_CGATGT_Aligned.sortedByCoord.out.bam   -sspe -keepOne -genome mm10
+makeTagDirectory 4m_female_F2a_Neutrophils_RNAseq_TAGs  4m_female_F2a_Neutrophils_TTAGGC_Aligned.sortedByCoord.out.bam   -sspe -keepOne -genome mm10
+makeTagDirectory 4m_female_F2b_Neutrophils_RNAseq_TAGs  4m_female_F2b_Neutrophils_ATCACG_Aligned.sortedByCoord.out.bam   -sspe -keepOne -genome mm10
+makeTagDirectory 4m_male_M1a_Neutrophils_RNAseq_TAGs    4m_male_M1a_Neutrophils_CAGATC_Aligned.sortedByCoord.out.bam     -sspe -keepOne -genome mm10
+makeTagDirectory 4m_male_M1b_Neutrophils_RNAseq_TAGs    4m_male_M1b_Neutrophils_ACTTGA_Aligned.sortedByCoord.out.bam     -sspe -keepOne -genome mm10
+makeTagDirectory 4m_male_M2a_Neutrophils_RNAseq_TAGs    4m_male_M2a_Neutrophils_GATCAG_Aligned.sortedByCoord.out.bam     -sspe -keepOne -genome mm10
+makeTagDirectory 4m_male_M2b_Neutrophils_RNAseq_TAGs    4m_male_M2b_Neutrophils_TTAGGC_Aligned.sortedByCoord.out.bam     -sspe -keepOne -genome mm10
+makeTagDirectory 20m_female_F3a_Neutrophils_RNAseq_TAGs 20m_female_F3a_Neutrophils_TGACCA_Aligned.sortedByCoord.out.bam  -sspe -keepOne -genome mm10
+makeTagDirectory 20m_female_F3b_Neutrophils_RNAseq_TAGs 20m_female_F3b_Neutrophils_ACAGTG_Aligned.sortedByCoord.out.bam  -sspe -keepOne -genome mm10
+makeTagDirectory 20m_female_F4a_Neutrophils_RNAseq_TAGs 20m_female_F4a_Neutrophils_GCCAAT_Aligned.sortedByCoord.out.bam  -sspe -keepOne -genome mm10
+makeTagDirectory 20m_female_F4b_Neutrophils_RNAseq_TAGs 20m_female_F4b_Neutrophils_CGATGT_Aligned.sortedByCoord.out.bam  -sspe -keepOne -genome mm10
+makeTagDirectory 20m_male_M3a_Neutrophils_RNAseq_TAGs   20m_male_M3a_Neutrophils_TAGCTT_Aligned.sortedByCoord.out.bam    -sspe -keepOne -genome mm10
+makeTagDirectory 20m_male_M3b_Neutrophils_RNAseq_TAGs   20m_male_M3b_Neutrophils_GGCTAC_Aligned.sortedByCoord.out.bam    -sspe -keepOne -genome mm10
+makeTagDirectory 20m_male_M4a_Neutrophils_RNAseq_TAGs   20m_male_M4a_Neutrophils_CTTGTA_Aligned.sortedByCoord.out.bam    -sspe -keepOne -genome mm10
+makeTagDirectory 20m_male_M4b_Neutrophils_RNAseq_TAGs   20m_male_M4b_Neutrophils_TGACCA_Aligned.sortedByCoord.out.bam    -sspe -keepOne -genome mm10
+ 
+makeTagDirectory 4m_female_Neutrophils_MERGED_RNAseq_TAGs  -d 4m_female_F1a_Neutrophils_RNAseq_TAGs 4m_female_F1b_Neutrophils_RNAseq_TAGs 4m_female_F2a_Neutrophils_RNAseq_TAGs 4m_female_F2b_Neutrophils_RNAseq_TAGs
+makeTagDirectory 20m_female_Neutrophils_MERGED_RNAseq_TAGs -d 20m_female_F3a_Neutrophils_RNAseq_TAGs 20m_female_F3b_Neutrophils_RNAseq_TAGs 20m_female_F4a_Neutrophils_RNAseq_TAGs 20m_female_F4b_Neutrophils_RNAseq_TAGs 
+makeTagDirectory 4m_male_Neutrophils_MERGED_RNAseq_TAGs    -d 4m_male_M1a_Neutrophils_RNAseq_TAGs 4m_male_M1b_Neutrophils_RNAseq_TAGs 4m_male_M2a_Neutrophils_RNAseq_TAGs 4m_male_M2b_Neutrophils_RNAseq_TAGs    
+makeTagDirectory 20m_male_Neutrophils_MERGED_RNAseq_TAGs   -d 20m_male_M3a_Neutrophils_RNAseq_TAGs 20m_male_M3b_Neutrophils_RNAseq_TAGs 20m_male_M4a_Neutrophils_RNAseq_TAGs 20m_male_M4b_Neutrophils_RNAseq_TAGs   
