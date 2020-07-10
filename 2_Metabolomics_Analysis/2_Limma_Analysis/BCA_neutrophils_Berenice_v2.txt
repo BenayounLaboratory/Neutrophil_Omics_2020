@@ -1,0 +1,17 @@
+Sample_Nmber	SampleID_old	Total Protein (ug)	ug.uL	Gender	Age	ID	SampleID
+2	F_20m_3a	89.15	0.8915	Female	20 months	3a	F_Old_3a
+14	F_20m_3b	111.65	1.1165	Female	20 months	3b	F_Old_3b
+12	F_20m_4a	55.65	0.5565	Female	20 months	4a	F_Old_4a
+8	F_20m_4b	95.65	0.9565	Female	20 months	4b	F_Old_4b
+5	F_4m_1a	61.15	0.6115	Female	4 months 	1a	F_Young_1a
+3	F_4m_1b	37.65	0.3765	Female	4 months 	1b	F_Young_1b
+16	F_4m_2a	45.65	0.4565	Female	4 months 	2a	F_Young_2a
+13	F_4m_2b	145.65	1.4565	Female	4 months 	2b	F_Young_2b
+6	M_20m_3a	99.65	0.9965	Male 	20 months	3a	M_Old_3a
+9	M_20m_3b	265.15	2.6515	Male 	20 months	3b	M_Old_3b
+1	M_20m_4a	150.15	1.5015	Male 	20 months	4a	M_Old_4a
+15	M_20m_4b	89.65	0.8965	Male 	20 months	4b	M_Old_4b
+4	M_4m_1a	88.15	0.8815	Male 	4 months 	1a	M_Young_1a
+11	M_4m_1b	97.65	0.9765	Male 	4 months 	1b	M_Young_1b
+10	M_4m_2a	79.15	0.7915	Male 	4 months 	2a	M_Young_2a
+7	M_4m_2b	75.65	0.7565	Male 	4 months 	2b	M_Young_2b
