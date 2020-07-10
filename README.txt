@@ -4,7 +4,7 @@ Code for the manuscript:
 
 Ryan Lu, Shalina Taylor, Kévin Contrepois, Nirmal K. Sampathkumar and Bérénice A. Benayoun
 "Multi-omic profiling of primary mouse neutrophils reveals a pattern of sex and age-related functional regulation"
-
+(biorXiv preprint at: https://www.biorxiv.org/content/10.1101/2020.07.06.190595v1)
 
 The code is arranged by "omic" analysis realm:
 	# 1_RNAseq_Analysis        : see README_RNAseq.txt
